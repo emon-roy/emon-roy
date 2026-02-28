@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emon-roy 
+# 👋 Hi, I'm Emon Roy
 
 ### 👨‍💻 About Me
 I'm a developer who turns caffeine into code and bugs into "undocumented features." 
